@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![MasterHead](https://64.media.tumblr.com/fbc1b06af19f512c77af7d00e12803de/814164b429325c59-5c/s540x810/0db4224507587847588d357663b384d96dc9dfd1.gifv)
+![MasterHead](https://64.media.tumblr.com/083ada122d5fbcb8f6db01a3775abf9f/28b1f9e021ffe9a1-bc/s500x750/36a84387dd2ea78a40b13c8778a5cfe8127726b8.gifv)
 <h1 align="center">Hey There 👋, I'm Mujtaba :)</h1>
 <h3 align="center">An ambitious SWE from Toronto || Currently seeking internship</h3>
 <p align="center"> "Towards human flourishing" </p>

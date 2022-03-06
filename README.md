@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - change font -> san-serif -> avenir
 - 
 <!-- ![MasterHead]() -->
+<!DOCTYPE html>
 <html>
 <body>
 <h1 align="center">Hey There 👋, I'm Mujtaba :)</h1>

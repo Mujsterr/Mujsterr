@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mujsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mujsterr" /> </p>
 
 <p align="center"> 
-😄 Pronouns: <strong>He/Him</strong> 😄 <br>
- 🌱 I’m currently learning <strong>Software Design, Crypto and Algorithms</strong> 🌱<br>
- 💬 Ask me about <strong>Video games, TV Shows including Spongebob :></strong> 💬 <br>
+- 😄 Pronouns: <strong>He/Him</strong> <br>
+- 🌱 I’m currently learning <strong>Software Design, Crypto and Algorithms</strong><br>
+- 💬 Ask me about <strong>Video games, TV Shows including Spongebob :></strong><br>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujsterr&show_icons=true&locale=en&layout=compact" alt="mujsterr" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mujsterr&show_icons=true&locale=en" alt="mujsterr" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mujsterr&show_icons=true&locale=en" alt="mujsterr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mujsterr&" alt="mujsterr" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mujsterr&" alt="mujsterr" /></p>

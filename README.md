@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img>
- <h1 align="center">Hey There 👋, I'm Mujtaba :)</h1>
+<h1 align="center">Hey There 👋, I'm Mujtaba :)</h1>
 <h3 align="center">An ambitious SWE from Toronto || Currently seeking internship</h3>
 <p align="center"> "Towards human flourishing" </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mujsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mujsterr" /> </p>

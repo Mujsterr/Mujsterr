@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mujsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mujsterr" /> </p>
 
 <p align="center"> 
-😄 Pronouns: **He/Him** 😄
-🌱 I’m currently learning **Software Design, Crypto and Algorithms** 🌱
-💬 Ask me about **Video games, TV Shows including Spongebob :>** 💬
+😄 Pronouns: <strong>He/Him</strong> 😄 \n
+ 🌱 I’m currently learning <strong>Software Design, Crypto and Algorithms</strong> 🌱\n
+ 💬 Ask me about <strong>Video games, TV Shows including Spongebob :></strong> 💬 \n
 </p>
 
 <h3 align="center">Connect with me:</h3>

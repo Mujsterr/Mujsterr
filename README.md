@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
--->
+
 <img>
  <h1 align="center">Hey There 👋, I'm Mujtaba :)</h1>
 <h3 align="center">An ambitious SWE from Toronto || Currently seeking internship</h3>
 <p align="center"> "Towards human flourishing" </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mujsterr" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mujsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mujsterr" /> </p>
 
 - 😄 Pronouns: **He/Him**
 - 🌱 I’m currently learning **Software Design, Crypto and Algorithms**
 - 💬 Ask me about **Video games, TV Shows including Spongebob :>**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/syed-ahmed7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-ahmed7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mujsterr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mujsterr" height="30" width="40" /></a>
 </p>

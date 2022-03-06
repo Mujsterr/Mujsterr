@@ -1,26 +1,4 @@
-<!-- ### Hi there 👋
-
-<!--
-**Mujsterr/Mujsterr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Tiffany Notes
-- change font -> san-serif -> avenir
-- 
-<!-- ![MasterHead]() -->
-<!DOCTYPE html>
-<html>
-<body>
+<body style="border: 1px solid blue, border-radius: 12px;">
 <h1 align="center">Hey There 👋, I'm Mujtaba :)</h1>
 <h3 align="center">An ambitious SWE from Toronto || Currently seeking internship</h3>
 <p align="center"> "Towards human flourishing" </p>
@@ -49,18 +27,3 @@ Here are some ideas to get you started:
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mujsterr&show_icons=true&locale=en" alt="mujsterr" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mujsterr&" alt="mujsterr" /></p>
-
-
-<style>
-@font-face {
-  font-family: 'Avenir';
-  src: url('../fonts/Avenir.eot?#iefix') format('embedded-opentype'),  url('../fonts/Avenir.woff') format('woff'), url('../fonts/Avenir.ttf')  format('truetype'), url('../fonts/Avenir.svg#Avenir') format('svg');
-}
-
-body {
-  border: 1px solid blue;
-  border-radius: 12px;
-  font-family: 'Avenir', Helvetica, sans-serif;
-}
-</style>
-</html>

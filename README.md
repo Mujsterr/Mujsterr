@@ -1,11 +1,10 @@
 <body style="border: 1px solid blue, border-radius: 12px;">
-<h1 align="center">Hey There 👋, I'm Mujtaba :)</h1>
+<h1 align="center">Hey There 👋, I'm Mujtaba :) (He/Him)</h1>
 <h3 align="center"></h3>
 <p align="center"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mujsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mujsterr" /> </p>
 
-<p align="center"> 
-😄 Pronouns: <strong>He/Him</strong> <br>
+<p align="center">
 🌱 I’m currently learning <strong>React.js</strong><br>
 </p>
 

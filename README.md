@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mujsterr&label=Profile%20views&color=0e75b6&style=flat" alt="mujsterr" /> </p>
 
 <p align="center">
-🌱 I’m currently learning <strong>React.js</strong><br>
+🌱 currently building using <strong>TypeScript, React.js, TailwindCSS, FastAPI, PostgreSQL, Pandas</strong><br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
